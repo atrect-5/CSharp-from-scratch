@@ -14,10 +14,32 @@ El repositorio se divide en los siguientes modulos:
 Este curso tambien cuenta con un proyecto final, en el que se aplicaran los conocimientos adquiridos en el curso.  
 Descripcion del proyecto:  
 * Simular el sistema de registro de un almacen de una tienda que vende productos de frutas y verduras   
-    
-## Ejecucion
-Cada archivo JS viene con su respectivo HTML para poder correr el codigo.  
-Solo debes abrir el archivo HTML en el navegador para ejecutarlo.  
-  
-Los que no cuentan con su respectivo HTML se corren en la terminal del editor de codigo.
 -->
+    
+## Ejecución
+
+Para ejecutar los ejemplos de este repositorio en tu computadora:
+
+1. **Instala el SDK de .NET**  
+   Descárgalo desde [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download).
+
+2. **Clona este repositorio**  
+   ```sh
+   git clone <aun-por-definir>
+   cd "C# desde cero"
+   ```
+
+3. **Abre la carpeta en Visual Studio Code o Visual Studio**  
+   Puedes usar cualquier editor compatible con C# y .NET.
+
+4. **Ejecuta el proyecto que desees**  
+   Desde la terminal, navega a la carpeta del proyecto y ejecuta:
+   ```sh
+   dotnet run --project <ruta/al/archivo.csproj>
+   ```
+   Por ejemplo:
+   ```sh
+   dotnet run --project "1-Introduccion a C#/HelloWorld/HelloWorld.csproj"
+   ```
+
+Esto compilará y ejecutará el proyecto seleccionado.
