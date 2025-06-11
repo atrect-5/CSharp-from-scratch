@@ -25,7 +25,7 @@ Para ejecutar los ejemplos de este repositorio en tu computadora:
 
 2. **Clona este repositorio**  
    ```sh
-   git clone <aun-por-definir>
+   git clone https://github.com/atrect-5/Introduction-to-CSharp.git
    cd "C# desde cero"
    ```
 
