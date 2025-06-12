@@ -13,7 +13,7 @@ El repositorio se divide en los siguientes modulos:
 <!-- (Template)
 Este curso tambien cuenta con un proyecto final, en el que se aplicaran los conocimientos adquiridos en el curso.  
 Descripcion del proyecto:  
-* Simular el sistema de registro de un almacen de una tienda que vende productos de frutas y verduras   
+* 
 -->
     
 ## Ejecución
