@@ -5,11 +5,11 @@ internal class Program
     private static void Main(string[] args)
     {
         /*
-         * Ejemplo 1:
+         * Ejercicio 1:
          * Realizar un programa que guardar los sueldos de 5 operarios en un arreglo.
          */
         Console.ForegroundColor = ConsoleColor.DarkGray;
-        Console.WriteLine("\n\n--------------------Ejemplo 1--------------------");
+        Console.WriteLine("\n\n--------------------Ejercicio 1--------------------");
         Console.ResetColor();
 
         double[] sueldos = new double[5];
@@ -38,13 +38,13 @@ internal class Program
 
 
         /*
-         * Ejemplo 2:
+         * Ejercicio 2:
          * Una empresa tiene dos turnos (mañana y tarde) en los que trabajan 8 empleados 
          * (4 por la mañana y 4 por la tarde). Desarrollar un programa que permita almacenar 
          * los sueldos de los empleados agrupados por turno.
          */
         Console.ForegroundColor = ConsoleColor.DarkGray;
-        Console.WriteLine("\n\n--------------------Ejemplo 2--------------------");
+        Console.WriteLine("\n\n--------------------Ejercicio 2--------------------");
         Console.ResetColor();
 
         double[,] sueldosTurnos = new double[2, 4]; // 2 turnos, 4 empleados por turno
@@ -86,13 +86,13 @@ internal class Program
 
 
         /*
-         * Ejemplo 3:
+         * Ejercicio 3:
          * Se tienen las notas del primer parcial de los alumnos de dos cursos, Matemática y el Física, 
          * cada curso cuenta con 5 alumnos. Realizar un programa que muestre el curso que obtuvo el 
          * mayor promedio general.
          */
         Console.ForegroundColor = ConsoleColor.DarkGray;
-        Console.WriteLine("\n\n--------------------Ejemplo 3--------------------");
+        Console.WriteLine("\n\n--------------------Ejercicio 3--------------------");
         Console.ResetColor();
 
         double[,] notas = new double[2, 5]; // 2 cursos, 5 alumnos por curso
@@ -131,12 +131,12 @@ internal class Program
 
 
         /*
-         * Ejemplo 4:
+         * Ejercicio 4:
          * Crear un programa en el que se pueda ingresar por pantalla los nombres, apellidos, edad y sexo de cinco clientes, 
          * emplee los tipos de datos arreglos.
          */
         Console.ForegroundColor = ConsoleColor.DarkGray;
-        Console.WriteLine("\n\n--------------------Ejemplo 4--------------------");
+        Console.WriteLine("\n\n--------------------Ejercicio 4--------------------");
         Console.ResetColor();
 
         string?[] nombres = new string[5];
