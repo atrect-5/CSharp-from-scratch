@@ -15,6 +15,10 @@ Este curso tambien cuenta con un proyecto final, en el que se aplicaran los cono
 Descripcion del proyecto:  
 * 
 -->
+## Requisitos  
+
+- [.NET SDK 8.0](https://dotnet.microsoft.com/download/dotnet/8.0) o superior.  
+- Visual Studio 2022 versión 17.14 o superior (opcional, recomendado para abrir la solución `.sln`).  
     
 ## Ejecución
 
