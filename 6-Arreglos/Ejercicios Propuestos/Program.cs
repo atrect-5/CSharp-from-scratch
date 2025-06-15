@@ -49,7 +49,7 @@ internal class Program
 
         double[,] sueldosTurnos = new double[2, 4]; // 2 turnos, 4 empleados por turno
 
-        string[] turnos = { "Mañana", "Tarde" };
+        string[] turnos = [ "Mañana", "Tarde" ];
         Console.WriteLine("Ingrese los sueldos de los empleados por turno:");
         for (int turno = 0; turno < sueldosTurnos.GetLength(0); turno++)
         {
@@ -97,7 +97,7 @@ internal class Program
 
         double[,] notas = new double[2, 5]; // 2 cursos, 5 alumnos por curso
         double[] promedios = new double[2]; // Para almacenar el promedio de cada curso
-        string[] cursos = { "Matemática", "Física" };
+        string[] cursos = [ "Matemática", "Física" ];
 
         Console.WriteLine("Ingrese las notas de los alumnos por curso:");
         for (int curso = 0; curso < notas.GetLength(0); curso++)
